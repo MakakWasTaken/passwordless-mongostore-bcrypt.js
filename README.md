@@ -64,5 +64,6 @@ As the tokens are equivalent to passwords (even though they do have the security
 [MIT License](http://opensource.org/licenses/MIT)
 
 ## Author
-Florian Heinemann [@thesumofall](http://twitter.com/thesumofall/)
+
+Florian Heinemann [@thesumofall](http://twitter.com/thesumofall/)  
 Very minor edits by [Hugh Rundle](https://www.hughrundle.net)
