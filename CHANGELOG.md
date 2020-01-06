@@ -43,3 +43,28 @@ Features:
 
 Documentation:
 - N/A
+
+# CHANGE TO BCRYPTJS
+
+# 1.0.0
+
+Bugfixes:
+- UPDATED test package requirements
+
+Features:
+- Use bcryptjs instead of bcrypt-node
+
+Documentation:
+- N/A
+
+# 1.1.0 (2020-01-06)
+
+Bugfixes:
+- N/A
+
+Features:
+- Upgrade mongodb
+- Update mongodb db calls with new syntax
+
+Documentation:
+- N/A
