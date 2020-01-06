@@ -67,4 +67,4 @@ Features:
 - Update mongodb db calls with new syntax
 
 Documentation:
-- N/A
+- Updated docs to note that db and collection will have the same name.
