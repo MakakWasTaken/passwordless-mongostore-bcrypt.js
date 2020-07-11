@@ -14,7 +14,7 @@ Afterwards, follow the guide for [Passwordless](https://github.com/florianheinem
 
 ```javascript
 var passwordless = require('passwordless');
-var MongoStore = require('passwordless-mongostore');
+var MongoStore = require('passwordless-mongostore-bcryptjs');
 
 var mongoURI = 'mongodb://localhost/passwordless-simple-mail';
 passwordless.init(new MongoStore(mongoURI));
@@ -68,4 +68,4 @@ As the tokens are equivalent to passwords (even though they do have the security
 ## Author
 
 Florian Heinemann [@thesumofall](http://twitter.com/thesumofall/)  
-Very minor edits by [Hugh Rundle](https://www.hughrundle.net)
+Minor updates by [Hugh Rundle](https://www.hughrundle.net)
